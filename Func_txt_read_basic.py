@@ -12,9 +12,3 @@ def read_txt(path):
         return output
 
 
-#x=read_txt("C:\\Users\\Wik\\Desktop\\dp\\Projekty2021\\ABCN\\Na produkcje\\2023-07-10\\WG_03.txt")
-#print(x.iloc[0,0])
-#print(x)
-#print(x.isin(['WG_03']))
-#print(x=='WG_01')
-#print(x.where('WG_03'))
